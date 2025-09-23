@@ -1,0 +1,25 @@
+body {
+    background-color: #424549;
+}
+#etiqueta_contador {
+    display: block;
+    color: #7289da;
+    text-align: center;
+    font-size: 10em;
+    font-family: helvetica;
+}
+#botoes_div {
+    text-align: center;
+}
+.botoes {
+    padding: 10px 20px;
+    font-size: 1.5em;
+    background-color: #36393e;
+    color: #7289da;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.botoes:hover {
+    background-color: #282b30;
+}
