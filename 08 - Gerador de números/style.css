@@ -1,0 +1,22 @@
+body {
+    background-color: #424549;
+    text-align: center;
+    font-family: verdana;
+}
+p {
+    color: #7289da;
+    font-size: 10em;
+}
+button {
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    background-color: #36393e;
+    color: #7289da;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+button:hover {
+    background-color: #282b30;
+}
