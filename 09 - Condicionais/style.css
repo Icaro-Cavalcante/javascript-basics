@@ -1,0 +1,23 @@
+body {
+    background-color: #424549;
+    font-family: verdana;
+}
+label {
+    color: #7289da;
+    font-size:2em;
+}
+input {
+    background-color: #282b30;
+    color: #7289da;
+    font-size: 2em;
+}
+button {
+    background-color: #36393e;
+    color: #7289da;
+    font-size: 2em;
+    cursor: pointer;
+}
+p {
+    color: #7289da;
+    font-size:2em;
+}
