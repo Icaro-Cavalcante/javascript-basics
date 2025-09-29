@@ -30,6 +30,6 @@ mensagem = javascript ? `Você está programando em JavaScript` : `Você está p
 console.log(mensagem);
 
 let carrinho = 75;
-let desconto = carrinho > 50 ? 0.1 : 0
-let valor = (carrinho*(1-desconto))
-console.log(valor)
+let desconto = carrinho > 50 ? 0.1 : 0;
+let valor = (carrinho*(1-desconto));
+console.log(valor);
