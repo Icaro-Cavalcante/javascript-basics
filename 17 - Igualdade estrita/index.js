@@ -6,33 +6,33 @@
 !== - Operador de desigualdade estrita
 */
 
-const pi = 3.14
+const pi = 3.14;
 
 if (pi == "3.14") {
-    console.log("O número é pi")
+    console.log("O número é pi");
 }
 else {
-    console.log("O número não é pi")
+    console.log("O número não é pi");
 } // output = O número é pi
 
 // mas se...
 if (pi === "3.14") {
-    console.log("O número é pi")
+    console.log("O número é pi");
 }
 else {
-    console.log("O número não é pi")
+    console.log("O número não é pi");
 } // output = O número não é pi
 
 if (pi != "3.14") {
-    console.log("O número é pi")
+    console.log("O número é pi");
 }
 else {
-    console.log("O número não é pi")
+    console.log("O número não é pi");
 } // output = O número não é pi
 
 if (pi !== "3.14") {
-    console.log("O número é pi")
+    console.log("O número é pi");
 }
 else {
-    console.log("O número não é pi")
+    console.log("O número não é pi");
 } // output = O número é pi
