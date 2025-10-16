@@ -1,0 +1,18 @@
+body {
+    background-color: #424549;
+}
+h1 {
+    color: #7289da;
+}
+label {
+    color: #7289da;
+    font-size: 20px;
+}
+button {
+    background-color: #36393e;
+    color: #7289da;
+    font-size: 15px;
+}
+p {
+    color: #7289da;   
+}
