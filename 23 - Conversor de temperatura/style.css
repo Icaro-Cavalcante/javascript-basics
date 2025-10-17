@@ -1,0 +1,18 @@
+body {
+    background-color: #DFE8E6;
+}
+h1 {
+    color: #A0430A;
+}
+label {
+    color: #A0430A;
+}
+button {
+    background-color: #DFE8E6;
+    color: #A0430A;
+    border-radius: 5px;
+    cursor: pointer;
+}
+p {
+    color: #A0430A;
+}
